@@ -1,7 +1,7 @@
 ---
 ---
 
-# OS242: izzydharma
+# OS242: aditonorman
 
 Sistem Operasi 2024-2 (Semester Ganjil 2024/2025)
 
