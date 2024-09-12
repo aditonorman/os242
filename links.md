@@ -21,5 +21,11 @@ This is the official book that explains the design of the FreeBSD operating syst
 
 ### 5. [OSDev Wiki](https://wiki.osdev.org/Main_Page)
 The OSDev Wiki is a community-driven site where operating system developers collaborate and share resources. It provides tutorials on building your own operating system, including topics like bootloaders and kernel development. This link is fascinating for anyone who wants to take on the challenge of creating a custom OS from scratch.
+
+### 6. [MIT OpenCourseWare: Operating System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)
+MIT's OpenCourseWare offers free courses, including their "Operating System Engineering" course. This course provides in-depth lectures, assignments, and projects focused on the principles of operating systems. It is a valuable resource for learners who want a more formal and academic approach to the subject, along with practical hands-on experience.
+
+### 7. [Linux From Scratch](http://www.linuxfromscratch.org/)
+Linux From Scratch (LFS) is a project that provides you with step-by-step instructions on how to build your own custom Linux system from the ground up. This is a fantastic resource for anyone looking to get deep into Linux internals, learning how operating systems work at a fundamental level by constructing one yourself.
 <br>
 <hr>
