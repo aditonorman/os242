@@ -13,8 +13,8 @@ This is an excellent, free book by Remzi Arpaci-Dusseau and Andrea Arpaci-Dussea
 ### 2. [Linux Kernel Newbies](https://kernelnewbies.org/)
 This site is an excellent resource for those who want to dive into Linux kernel development. It is well-suited for beginners who are just starting to understand the intricacies of the Linux kernel. It provides guides and explanations for understanding kernel patches, subsystems, and other kernel development tools. I recommend this resource for its simplicity and community-driven approach to helping new developers.
 
-### 3. [Unix Programming Tools (UNIX History)](https://www.bell-labs.com/usr/dmr/www/odyssey.html)
-This is an article by Dennis Ritchie, co-creator of Unix, reflecting on the development of Unix. The historical insight into Unix's design makes it compelling. Understanding how early operating systems like Unix were created can give students a foundational knowledge of modern OS concepts.
+### 3. [Free and Open Source software licenses explained](https://www.youtube.com/watch?v=UMIG4KnM8xw&pp=ygUmZnJlZSBzb2Z0d2FyZSBhbmQgb3BlbiBzb3VyY2Ugc29mdHdhcmU%3D)
+This is a video about an explanation about free and open souce software
 
 ### 4. [The Design and Implementation of the FreeBSD Operating System](https://www.freebsd.org/doc/en_US.ISO8859-1/books/design-44bsd/)
 This is the official book that explains the design of the FreeBSD operating system. It covers both theoretical and practical aspects, from kernel design to system calls. I think this link is great because it delves into a popular, open-source Unix-like operating system and provides detailed explanations about its architecture.
@@ -27,5 +27,14 @@ MIT's OpenCourseWare offers free courses, including their "Operating System Engi
 
 ### 7. [Linux From Scratch](http://www.linuxfromscratch.org/)
 Linux From Scratch (LFS) is a project that provides you with step-by-step instructions on how to build your own custom Linux system from the ground up. This is a fantastic resource for anyone looking to get deep into Linux internals, learning how operating systems work at a fundamental level by constructing one yourself.
+
+### 8. [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8)
+A beginner-friendly video that covers key OS concepts like memory management and multitasking as part of the Crash Course Computer Science series.
+
+### 9. [MIT 6.828: Operating System Engineering](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
+A full lecture series from MIT's Operating System Engineering course, covering advanced topics like virtual memory, processes, and concurrency.
+
+### 10. [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM)
+A very helpful video on the week 3 materials
 <br>
 <hr>
