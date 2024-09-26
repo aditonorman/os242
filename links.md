@@ -36,5 +36,10 @@ A full lecture series from MIT's Operating System Engineering course, covering a
 
 ### 10. [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM)
 A very helpful video on the week 3 materials
+
+### 11. [Understanding the Linux Virtual Memory Manager](https://www.kernel.org/doc/gorman/html/understand/understand013.html)
+This book by Mel Gorman, available online, provides an in-depth exploration of Linux's memory management system. It's a fantastic resource for anyone interested in learning more about virtual memory.
+
+### 12. [Understanding Linux Process Management](https://www.tldp.org/LDP/tlk/kernel/processes.html) This page from The Linux Documentation Project provides an in-depth look at how Linux manages processes, which is a core topic in operating system design.
 <br>
 <hr>
