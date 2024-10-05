@@ -44,6 +44,6 @@ This book by Mel Gorman, available online, provides an in-depth exploration of L
 
 ### 12. [Virtual Memory](https://www.tldp.org/LDP/tlk/mm/memory.html) This page from The Linux Documentation Project provides an in-depth look at how Linux handles virtual memory, a key topic in operating system design.
 
-### 13. [Caching](https://www.tldp.org/LDP/tlk/cache/cache.html) This page from The Linux Documentation Project covers caching mechanisms in Linux, which are essential for optimizing system performance and memory usage.
+### 13. [Caching](https://www.baeldung.com/linux/file-system-caching) This page from The Linux Documentation Project covers caching mechanisms in Linux, which are essential for optimizing system performance and memory usage.
 <br>
 <hr>
