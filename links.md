@@ -40,10 +40,13 @@ A very helpful video on the week 3 materials
 ### 11. [Understanding the Linux Virtual Memory Manager](https://www.kernel.org/doc/gorman/html/understand/understand013.html)
 This book by Mel Gorman, available online, provides an in-depth exploration of Linux's memory management system. It's a fantastic resource for anyone interested in learning more about virtual memory.
 
-### 12. [Understanding Linux Process Management](https://www.tldp.org/LDP/tlk/kernel/processes.html) This page from The Linux Documentation Project provides an in-depth look at how Linux manages processes, which is a core topic in operating system design.
+### 12. [Understanding Linux Process Management](https://www.tldp.org/LDP/tlk/kernel/processes.html)
+This page from The Linux Documentation Project provides an in-depth look at how Linux manages processes, which is a core topic in operating system design.
 
-### 12. [Virtual Memory](https://www.tldp.org/LDP/tlk/mm/memory.html) This page from The Linux Documentation Project provides an in-depth look at how Linux handles virtual memory, a key topic in operating system design.
+### 12. [Virtual Memory](https://www.tldp.org/LDP/tlk/mm/memory.html)
+This page from The Linux Documentation Project provides an in-depth look at how Linux handles virtual memory, a key topic in operating system design.
 
-### 13. [Caching](https://www.baeldung.com/linux/file-system-caching) This page from The Linux Documentation Project covers caching mechanisms in Linux, which are essential for optimizing system performance and memory usage.
+### 13. [Caching](https://www.baeldung.com/linux/file-system-caching)
+This page from The Linux Documentation Project covers caching mechanisms in Linux, which are essential for optimizing system performance and memory usage.
 <br>
 <hr>
