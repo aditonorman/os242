@@ -48,5 +48,11 @@ This page from The Linux Documentation Project provides an in-depth look at how 
 
 ### 13. [Caching](https://www.baeldung.com/linux/file-system-caching)
 This page from The Linux Documentation Project covers caching mechanisms in Linux, which are essential for optimizing system performance and memory usage.
+
+### 14. [Process States in Operating Systems](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/)
+This article from GeeksforGeeks provides an overview of the different states of a process in operating systems, explaining essential concepts like new, running, waiting, and terminated states, crucial for understanding process management.
+
+### 15. [Fork System Call in Operating Systems](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/)
+This GeeksforGeeks page dives into the fork system call, a critical function in Unix-like operating systems, used to create new processes and a fundamental topic in system-level programming.
 <br>
 <hr>
