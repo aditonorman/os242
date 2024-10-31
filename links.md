@@ -54,5 +54,14 @@ This article from GeeksforGeeks provides an overview of the different states of 
 
 ### 15. [Fork System Call in Operating Systems](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/)
 This GeeksforGeeks page dives into the fork system call, a critical function in Unix-like operating systems, used to create new processes and a fundamental topic in system-level programming.
+
+### 16. [Introduction to Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+This GeeksforGeeks article introduces the concept of process synchronization, explaining its importance in preventing issues like race conditions and ensuring smooth execution in multi-process environments.
+
+### 17. [What is a Critical Section?](https://www.geeksforgeeks.org/g-fact-70/)
+This article explains the concept of the critical section, a fundamental aspect of process synchronization. It covers how critical sections ensure that only one process accesses shared resources at a time, preventing conflicts and data inconsistencies in concurrent environments.
+
+### 18. [Difference Between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)
+This GeeksforGeeks page discusses the differences between deadlock and starvation, two potential problems in operating systems, outlining the causes and consequences of each in process management.
 <br>
 <hr>
