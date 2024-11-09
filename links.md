@@ -63,5 +63,11 @@ This article explains the concept of the critical section, a fundamental aspect 
 
 ### 18. [Difference Between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)
 This GeeksforGeeks page discusses the differences between deadlock and starvation, two potential problems in operating systems, outlining the causes and consequences of each in process management.
+
+### 19. [Linux From Scratch Subreddit](https://www.reddit.com/r/linuxfromscratch/)
+This subreddit is dedicated to discussions and support related to the Linux From Scratch project, where users can share their experiences and seek help in building their own Linux systems from source.
+
+### 20. [Linux From Scratch YouTube Guide](https://www.youtube.com/watch?v=685qdaX9YQc&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)
+This YouTube playlist provides a comprehensive guide on Linux From Scratch, offering step-by-step tutorials and demonstrations to help users build their own customized Linux operating system.
 <br>
 <hr>
