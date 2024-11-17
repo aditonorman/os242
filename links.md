@@ -69,5 +69,8 @@ This subreddit is dedicated to discussions and support related to the Linux From
 
 ### 20. [Linux From Scratch YouTube Guide](https://www.youtube.com/watch?v=685qdaX9YQc&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)
 This YouTube playlist provides a comprehensive guide on Linux From Scratch, offering step-by-step tutorials and demonstrations to help users build their own customized Linux operating system.
+
+### 21. [Operating Systems ](https://en.wikipedia.org/wiki/Operating_system)
+This is a very helpful website to know what operating systems are
 <br>
 <hr>
